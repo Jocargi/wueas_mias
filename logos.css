@@ -1,0 +1,21 @@
+.tanda1{
+    display: flex;
+    align-content:space-around ;
+    flex-wrap: wrap;
+  
+    justify-content: center;
+}
+.tanda2{
+    display: flex;
+    align-content:space-around ;
+    flex-wrap: wrap;
+    
+    justify-content: center;
+}
+.tanda3{
+    display: flex;
+    align-content:space-around ;
+    flex-wrap: wrap;
+   
+    justify-content: center;
+}
