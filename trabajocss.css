@@ -1,0 +1,198 @@
+
+.barra{
+    display:flex;
+    flex-flow: row ;
+}
+
+.caja1{
+    flex-grow: 2;
+    margin-top: 10px;
+}
+.a{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    height:35% 
+}
+.buscador{
+    display: flex;
+    flex-flow:row;
+    flex-grow: 3;
+    flex-basis: 50%;
+    font-style: italic;
+    color: grey;
+    justify-self: left;    
+}
+#barraBusqueda {
+    align-items: center; 
+    background-size: 25px;
+    width: 18%;
+    padding: 1.5% 1% 1% 3%;
+    border: transparent;
+} 
+.miniMenu{
+    display: flex;
+    flex-flow: row ;
+    flex-grow: 0.15; 
+    justify-content: space-between;
+    align-items: center;
+    color: blue; 
+}
+.menuDeAbajo{
+    display: flex ;
+    flex-flow: row wrap;
+    flex-grow: 3;
+    flex-basis: 50%;
+    gap: 2%;
+    align-items: center;
+    margin-top: 10px;
+}
+.bajoBuscador{
+    display: flex;
+    flex-flow: row wrap;
+    height:65%
+}
+.flex-container4{
+    display: flex;
+    flex-flow: row wrap;
+}
+.flex-container5{
+    display: flex;
+    flex-flow: row wrap;
+    background-color: #005d84;
+    
+}
+
+.logosEsquina{
+    display: flex;
+    flex-flow: row ;
+    flex-grow: 0.15;
+    justify-content: space-between;
+    align-items: center;
+}
+.barrita{
+    display: flex;
+    background-color: #005d84;
+    flex-wrap: wrap;
+    flex-direction: row;
+    color: white;
+    font-size: larger;
+    justify-content: space-around;
+}
+
+.bajo{
+    
+    text-align: center;
+    background-color: aqua;
+}
+
+.medio{
+    display: flex;
+    flex-direction: row;
+    
+}
+#imagen{
+    float: left;
+    padding-top: 25px;
+    
+    
+}
+#medio2{
+    margin-left: 300px;
+}
+#texto{
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+}
+#nose{
+    display: flex;
+    background-color: #005d84;
+    flex-direction: row;
+    flex-wrap: wrap; 
+}
+
+span{
+    display: block;
+    color: gray;
+}
+
+h2{
+    color: gold;   
+}
+#lista{
+    color: gold;
+   
+    
+}
+.si{
+    margin-left: 90px;
+}
+
+#enlace{
+    color: white;
+}
+
+.letras{
+    display: flex;
+    align-content:space-around ;
+    flex-wrap: wrap;
+   justify-content: center;
+
+   font-size: 25px;
+   font-family:  Arial, Helvetica, sans-serif;
+}
+
+
+.tanda1{
+    display: flex;
+    align-content:space-around ;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+.tanda2{
+    display: flex;
+    align-content:space-around ;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+.tanda3{
+    display: flex;
+    align-content:space-around ;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+.PieDePajina{
+    background-color: #e1e1e1;
+}
+.barra{
+    display: flex;
+    flex-flow: row;
+}
+.caja1{
+    flex-grow:  2;
+    margin-top: 10px; 
+}
+.bajoBarra{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+   
+    justify-content: space-between;
+}
+.bajoListas{
+    margin-top: 10px;
+    
+}
+#lista2{
+    list-style: none;
+}
+#h2{
+    color: black;
+}
+.oracle{
+    margin-top: 30px;
+}
+footer{
+    background-color: #f4f4f4;
+}

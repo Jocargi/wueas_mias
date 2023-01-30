@@ -1,0 +1,34 @@
+.PieDePajina{
+    background-color: #e1e1e1;
+}
+.barra{
+    display: flex;
+    flex-flow: row;
+}
+.caja1{
+    flex-grow:  2;
+    margin-top: 10px; 
+
+
+}
+.bajoBarra{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+   
+    justify-content: space-between;
+}
+.bajoListas{
+    margin-top: 10px;
+    
+}
+
+li{
+    list-style: none;
+}
+.oracle{
+    margin-top: 30px;
+}
+footer{
+    background-color: #f4f4f4;
+}

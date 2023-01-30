@@ -1,0 +1,26 @@
+#nose{
+    display: flex;
+    background-color: #005d84;
+    flex-direction: row;
+    flex-wrap: wrap; 
+}
+
+span{
+    display: block;
+    color: gray;
+}
+
+h2{
+    color: gold;   
+}
+li{
+    color: gold;
+   
+}
+.si{
+    margin-left: 90px;
+}
+
+a{
+    color: #ececec;
+}
